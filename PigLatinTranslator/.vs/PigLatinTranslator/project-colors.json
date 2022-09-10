@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7a72aa72-ef12-4d62-9af5-1db0c8596ab7": {
+      "ProjectGuid": "7a72aa72-ef12-4d62-9af5-1db0c8596ab7",
+      "DisplayName": "PigLatinTranslator",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

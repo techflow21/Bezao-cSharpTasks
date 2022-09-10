@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\c#projects\NextLeapYears\bin\Debug\net6.0\NextLeapYears.exe
+C:\Users\HP\Desktop\c#projects\NextLeapYears\bin\Debug\net6.0\NextLeapYears.deps.json
+C:\Users\HP\Desktop\c#projects\NextLeapYears\bin\Debug\net6.0\NextLeapYears.runtimeconfig.json
+C:\Users\HP\Desktop\c#projects\NextLeapYears\bin\Debug\net6.0\NextLeapYears.dll
+C:\Users\HP\Desktop\c#projects\NextLeapYears\bin\Debug\net6.0\ref\NextLeapYears.dll
+C:\Users\HP\Desktop\c#projects\NextLeapYears\bin\Debug\net6.0\NextLeapYears.pdb
+C:\Users\HP\Desktop\c#projects\NextLeapYears\obj\Debug\net6.0\NextLeapYears.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\c#projects\NextLeapYears\obj\Debug\net6.0\NextLeapYears.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\c#projects\NextLeapYears\obj\Debug\net6.0\NextLeapYears.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\c#projects\NextLeapYears\obj\Debug\net6.0\NextLeapYears.AssemblyInfo.cs
+C:\Users\HP\Desktop\c#projects\NextLeapYears\obj\Debug\net6.0\NextLeapYears.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\c#projects\NextLeapYears\obj\Debug\net6.0\NextLeapYears.dll
+C:\Users\HP\Desktop\c#projects\NextLeapYears\obj\Debug\net6.0\ref\NextLeapYears.dll
+C:\Users\HP\Desktop\c#projects\NextLeapYears\obj\Debug\net6.0\NextLeapYears.pdb
+C:\Users\HP\Desktop\c#projects\NextLeapYears\obj\Debug\net6.0\NextLeapYears.genruntimeconfig.cache
